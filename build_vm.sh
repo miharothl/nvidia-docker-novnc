@@ -7,7 +7,7 @@ echo ""
 echo "********************************************************************************"
 
 cd setup_host
-./basics.sh
+./install.sh
 ./install-nvidia-drivers.sh
 cd ..
 
