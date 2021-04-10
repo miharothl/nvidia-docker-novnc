@@ -27,3 +27,7 @@ https://github.com/willkessler/nvidia-docker-novnc/issues/2
 ### More info
 
 For more links and reference, please see the Medium posting about this environment [here](https://engineering.udacity.com/creating-a-gpu-enhanced-virtual-desktop-for-udacity-497bdd91a505).
+
+
+
+ubuntu/images/hvm-ssd/ubuntu-xenial-16.04-amd64-server-20201014 - ami-09b9e380df60300c8
