@@ -15,6 +15,9 @@ wget https://sourceforge.net/projects/virtualgl/files/2.5.2/virtualgl_2.5.2_amd6
 sudo dpkg -i virtualgl*.deb && \
 rm virtualgl*.deb
 
+# Install Mesa
+sudo apt-get install -y mesa-utils
+
 # Install TurboVNC
 wget https://sourceforge.net/projects/turbovnc/files/2.1.1/turbovnc_2.1.1_amd64.deb/download -O turbovnc_2.1.1_amd64.deb && \
 sudo dpkg -i turbovnc*.deb && \
